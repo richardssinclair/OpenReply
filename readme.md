@@ -1,6 +1,7 @@
-Open Reply Task
+##Open Reply Task
 
-I really enjoyed working on this technical task. I used vanilla JavaScript and plain CSS, along with the User JavaScript and CSS Chrome extension, as recommended.
+I really enjoyed working on this technical task. I used vanilla JavaScript and plain CSS, along with the [User JavaScript and CSS Chrome extension] (https://chrome.google.com/webstore/detail/user-javascript-and-
+css/nbhcbdghjpllgmfilhnhkllmkecfmpld), as recommended.
 
 One challenge I encountered was handling the transition between the Phones tab and other tabs. To solve this, I used a MutationObserver to detect changes in the Filter dropdowns and TariffCards — particularly to check when new cards appeared after switching tariffs.
 
